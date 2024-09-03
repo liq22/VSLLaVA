@@ -17,6 +17,3 @@ The code in this repository accompanies our research paper, which is currently u
 ## Get in Touch
 We welcome your feedback and collaboration. For any inquiries or to discuss potential partnerships, please reach out at [liq22@mails.tsinghua.edu.cn](mailto:liq22@mails.tsinghua.edu.cn).
 
----
-
-Feel free to let me know if you need further changes!
